@@ -1,6 +1,6 @@
 # chomp
 
-                                <strong>JUST GIMME THE BASICS</strong>
+<strong>JUST GIMME THE BASICS</strong>
 
 CHOMP does profiles. You know you want one.
 
