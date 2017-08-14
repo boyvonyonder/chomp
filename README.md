@@ -13,4 +13,4 @@ You can update a profile by typing <strong>!edit</strong> in the channel.
 If you really want to, you can also <strong>!delete</strong> your profile completely.
 
 Once you have a profile of your own, you can view another profile in the channel.
-To do this, use <strong>!view username</strong>. For instance, !view CHOMP to view CHOMP's profile.
+To do this, use <strong>!view username</strong>. For instance, <strong>!view CHOMP</strong> to view CHOMP's profile.
